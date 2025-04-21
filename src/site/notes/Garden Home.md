@@ -10,4 +10,4 @@
 
 這是初始畫面喔
 
-點我進入網站 [[Garden 內頁\|Garden 內頁]]
+點我進入網站 [[Garden subpage\|Garden subpage]]
